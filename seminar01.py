@@ -1,4 +1,4 @@
-"""..."""
+"""Proper"""
 GST_RATE = 0.1
 
 item_price = float(input("Price: "))
