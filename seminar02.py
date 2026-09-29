@@ -18,5 +18,6 @@ low = int(input("Low: "))
 high = int(input("High: "))
 while low >= high:
     print("Error")
+    # THIS ONE?
     high = int(input("High: "))
 print(random.randint(low, high) * ":)")
